@@ -3,3 +3,5 @@
 By: @farrandi
 
 DSCI 522 Assignment
+
+Solving merge conflicts is soooooo hard!
